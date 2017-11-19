@@ -1,0 +1,638 @@
+[
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_show_5.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\detail_show_5.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tb_icon_more_msg_56.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\tb_icon_more_msg_56.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f020.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\f020.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_sc_gridview_item.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\sc_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_2_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_2_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_top_menu.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\top_menu.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_g_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_g_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_disabled.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_1_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_1_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_show_big_pictrue_a.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\show_big_pictrue_a.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_xlistview_footer.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_menu_1_select.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\bt_menu_1_select.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_4.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_4.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_10.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_10.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_babydetail_a.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\babydetail_a.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_guide_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_show_6.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\detail_show_6.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_2_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_2_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_g_8.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_g_8.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_viewpager_5.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_viewpager_5.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_listview_tao.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\adapter_listview_tao.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_1_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_1_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_grid_home.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\adapter_grid_home.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_home_nm.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_home_nm.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_ware_a.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\ware_a.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_g_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_g_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_cu_push_right_in.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\anim\\cu_push_right_in.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_tfaccount_on.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_tfaccount_on.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_top_menu_back.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\top_menu_back.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_capture.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_4.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_4.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_guide_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yuanjiao_red.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\yuanjiao_red.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_second_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\second_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_viewpager_4.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_viewpager_4.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_1_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_1_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_guide_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_edit_ware.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\bg_edit_ware.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yuanjiao_choice.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\yuanjiao_choice.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_f.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\home_f.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_7.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_7.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_discover_on.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_discover_on.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_opinion.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\user_opinion.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_guide_4.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_4.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_f.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\cart_f.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zhijiao.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\zhijiao.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_scale_pic_item.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\scale_pic_item.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_second_2_collection.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\second_2_collection.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_4.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_4.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yuanjiao.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\yuanjiao.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tb_icon_actionbar_setting_48.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\tb_icon_actionbar_setting_48.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_realm_properties.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_buy_now_a.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\buy_now_a.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_menu_3_select.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\bt_menu_3_select.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f009.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\f009.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_fa.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\main_fa.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_account_nm.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_account_nm.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_pop_up_in.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\anim\\pop_up_in.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show_m1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\show_m1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_second_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\second_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_stock_f.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\cart_stock_f.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_6.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_6.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_viewpager_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_viewpager_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f047.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\f047.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_g_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_g_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_show_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\detail_show_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_5.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_5.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_1_0.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_1_0.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_cu_push_right_out.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\anim\\cu_push_right_out.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_9.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_9.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_show_4.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\detail_show_4.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_all_f.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\cart_all_f.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_hellosener.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\hellosener.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_put_in.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\put_in.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_home_on.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_home_on.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_2_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_2_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_7.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_7.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_dicover_f.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\dicover_f.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_low_f.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\cart_low_f.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_listview_ware.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\adapter_listview_ware.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_menu_0_select.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\bt_menu_0_select.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_viewpager_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_viewpager_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_2_5.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_2_5.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_second_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\second_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tb_icon_actionbar_back.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\tb_icon_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_6.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_6.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tao_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\tao_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tao_user_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\tao_user_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_menu_2_select.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\bt_menu_2_select.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_guide_7.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_7.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_g_6.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_g_6.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_2_4.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_2_4.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_viewpager_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_viewpager_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_expend_right.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\arrow_expend_right.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_upload_a.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\upload_a.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_account_on.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_account_on.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_top_menu_txt.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\top_menu_txt.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_cu_push_left_in.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\anim\\cu_push_left_in.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_listview_cart.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\adapter_listview_cart.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_1.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_1.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_grid_hot_home.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\adapter_grid_hot_home.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_menu_4_select.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\bt_menu_4_select.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_show_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\detail_show_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_popwindow.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\adapter_popwindow.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_down_in.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\anim\\down_in.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_5.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_5.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_guide_6.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_6.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_listview_detail.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\adapter_listview_detail.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_g_5.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_g_5.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_guide_8.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_8.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_discover_nm.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_discover_nm.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_g_7.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_g_7.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_top_right.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_top_right.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_cu_push_left_out.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\anim\\cu_push_left_out.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_pic_item.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\pic_item.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tb_icon_actionbar_refresh_48.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\tb_icon_actionbar_refresh_48.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_search_api_holo_light.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_pop_down_out.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\anim\\pop_down_out.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_del_icon_normal.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\del_icon_normal.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_second_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-mdpi\\second_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_top_left.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_top_left.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_5.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_5.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_view_merge.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\slide_view_merge.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_tfaccount_nm.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_tfaccount_nm.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_guide_5.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\menu_guide_5.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_find_g_4.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\find_g_4.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_holder_bg.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\holder_bg.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tao_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\tao_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_cart_on.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_cart_on.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_second_2_collection.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-mdpi\\second_2_collection.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_life.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\user_life.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_show_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\detail_show_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_cart_nm.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\guide_cart_nm.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user_life.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\user_life.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_8.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_8.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_xlistview_header.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_menu_edit.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\bg_menu_edit.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_3.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\menu_3.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zhijiao_gray.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable\\zhijiao_gray.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_f.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\user_f.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_second_2_collection.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-xhdpi\\second_2_collection.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tb_icon_actionbar_more.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\tb_icon_actionbar_more.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_up_out.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\anim\\up_out.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_2.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\user_2.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xlistview_arrow.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_tao_f.xml.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\layout\\tao_f.xml"
+    },
+    {
+        "merged": "D:\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_buy_now.png.flat",
+        "source": "D:\\MyTaobaoTest\\app\\src\\main\\res\\drawable-hdpi\\buy_now.png"
+    }
+]
