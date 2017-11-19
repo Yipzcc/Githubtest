@@ -36,7 +36,7 @@
                 android:paddingBottom="15dp"
                 android:paddingLeft="10dp"
                 android:paddingTop="15dp"
-                android:text="我爱土豪金"
+                android:text="我爱土"
                 android:textColor="@color/tv_Black" />
 
             <View
